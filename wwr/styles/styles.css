@@ -1,6 +1,38 @@
 
+.home-title {
+    font-family: 'rockwell', 'Georgia', serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
+.book, .join {
+    background-color: #DBDFAC;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.card-img {
+    border: 10px solid #DBDFAC;
+}
+main section img {
+    box-sizing: border-box;
+}
+.msg {
+    background-color: DBDFAC;
+    line-height: 1.5em;
+    padding: 35px;
+}
 body {
     background-color: DBDFAC;
+    font-family: verdana, candara, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
 }
 body 
 .main-para {
@@ -28,19 +60,23 @@ nav a:hover {
     background-color: black;
     color: white
     text-decoration; none
+    padding; 35px
 footer {
     background-color: 84D2F6;
     color: black
-    padding; 10px
+    padding: 25px;
 }
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 .logo {
     width: 80px;
+    padding-top: 5px;
 }
 nav a {
     text-align: center;
     color: black
     text-decoration; none:
+    padding: 35px;
 }
