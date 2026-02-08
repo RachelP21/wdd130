@@ -2,25 +2,38 @@
 .img {
   width: 80%;
 }
+img {
+  border: 4px solid steelblue;
+}
 p {
   width: 80%;
 }
 body {
   text-align: center;
 }
+body {
+  margin: 0
+}
 nav {
   background-color: steelblue;
   padding: 10px;
 }
+nav {
+  padding: 25px;
+}
 a {
   color: white;
   margin: 40px;
+}
+a {
+  padding: 25px;
 }
 h1 {
   color: steelblue;
 }
 h1 {
   text-align: center;
+  margin: 50px 0;
 }
 .img {
   width: 800px;
@@ -45,6 +58,7 @@ nav, footer{
 footer p {
     font-size: 20px;
     margin: 20px auto;
+    padding: 25 px;
 }
 .main-para {
     font-size: 1.5em;
@@ -55,7 +69,7 @@ main p {
     margin: 50px auto;
     text-align: center;
 }
-{}
+{
   border: 2px solid blue; 
 }
 <nav>
